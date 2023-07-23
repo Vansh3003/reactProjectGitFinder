@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactProjectGitFinder/static/css/main.f435d8f5.css",
+    "main.js": "/reactProjectGitFinder/static/js/main.2602fe51.js",
+    "index.html": "/reactProjectGitFinder/index.html",
+    "main.f435d8f5.css.map": "/reactProjectGitFinder/static/css/main.f435d8f5.css.map",
+    "main.2602fe51.js.map": "/reactProjectGitFinder/static/js/main.2602fe51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f435d8f5.css",
+    "static/js/main.2602fe51.js"
+  ]
+}
